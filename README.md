@@ -29,7 +29,7 @@ About me :😎
 ✔ Ask to me anything you want, I would like to answer as soon as possible <br>
 
  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oyelmali)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
