@@ -19,7 +19,7 @@
 <br><br>
 
 
-**About me :**
+About me :😎
 
 
 ✔ I'm currently working on **DeepWork**. It is a sofware start up company. 😊 <br>
@@ -28,8 +28,14 @@
 ✔ I’m currently learning about **deep learning**<br>
 ✔ Ask to me anything you want, I would like to answer as soon as possible <br>
 
-😎<br><br><br><br>
  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+“Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without loosing something.” <br>
+ *** Richard Stallman ***
+
+
+<br><br><br><br>
 
