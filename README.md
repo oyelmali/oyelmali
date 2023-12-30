@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omer Yusuf Elmali </h1>
 <h3 align="center">Machine Learning Engineer</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ömer-yusuf-elmalı-b9aa88154" target="blank">linkedin</a>  
+<a href="https://www.linkedin.com/in/ömer-yusuf-elmalı-b9aa88154" target="blank">linkedin</a>  
 <a href="https://www.instagram.com/yusuffelmali/" target="blank">Instagram</a>
  <a href = "mailto: omer.yusuf.elmali@gmail.com">Mail</a>
 </p>
