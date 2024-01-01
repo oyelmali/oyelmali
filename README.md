@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Omer Yusuf Elmali a <b>fresh graduate</b> from <a href="https://www.atauni.edu.tr/"> <b>Ataturk University</b>, Turkey</a>. <br>
+    Hello, I am Omer Yusuf Elmali a <b>fresh graduate</b> from <a href="https://www.atauni.edu.tr/"> <b>Ataturk University</b>, Turkey</a> <br>
     <b>a passionate self-learner</b> and a <b>Machine Learning Engineer</b>
   </em> 
   <br>
