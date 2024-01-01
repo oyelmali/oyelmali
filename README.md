@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omer Yusuf Elmali </h1>
 <h3 align="center">Machine Learning Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ömer-yusuf-elmalı-b9aa88154" target="blank">linkedin</a>  
+<a href="https://www.linkedin.com/in/ömer-yusuf-elmalı-b9aa88154" target="blank">linkedIn</a>  
 <a href="https://www.instagram.com/yusuffelmali/" target="blank">Instagram</a>
  <a href = "mailto: omer.yusuf.elmali@gmail.com">Mail</a>
 </p>
@@ -12,7 +12,7 @@
 <p align="center">
   <em>
     Hello, I am Omer Yusuf Elmali a <b>fresh graduate</b> from <a href="https://www.atauni.edu.tr/"> <b>Ataturk University</b>, Turkey</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>
+    <b>a passionate self-learner</b> and a <b>Machine Learning Engineer</b>
   </em> 
   <br>
 </p>
