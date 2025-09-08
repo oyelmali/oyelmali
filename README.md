@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=oyelmali&color=blue)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omer Yusuf Elmali </h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ömer-yusuf-elmalı-b9aa88154" target="blank">linkedIn</a>  
 <a href="https://www.instagram.com/yusuffelmali/" target="blank">Instagram</a>
@@ -27,7 +27,7 @@ About me :😎
 ✔ I'm currently working on **DeepWork**. It is a sofware start up company. 😊 <br>
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently developing a ***clothes semantic segmentation and virtual try-on*** for IOS app  <br>
-✔ I’m currently learning about **deep learning**<br>
+✔ I’m currently learning about **LLM**<br>
 ✔ Ask to me anything you want, I would like to answer as soon as possible <br>
 
  
